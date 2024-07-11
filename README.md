@@ -48,6 +48,4 @@ Specify the license under which this repository is shared (e.g., MIT License).
 
 Guidelines for contributions, if applicable, such as how to submit issues or pull requests.
 
-## Contact
 
-Provide contact information for inquiries or support related to this repository.
